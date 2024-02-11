@@ -1,4 +1,4 @@
-@font-face{   
+/* @font-face{   
     font-family: fuenteBarra;
     src: url(/fonts/Pacifico-Regular.ttf);
 }
@@ -6,7 +6,7 @@
 @font-face{   
     font-family: fuenteBarra;
     src: url(/fonts/Pacifico-Regular.ttf);
-}
+} */
 
 *{
     margin: 0;
@@ -30,11 +30,11 @@ header{
     text-align: center;
 }
 header div{ 
-   font-family: fuenteBarra;
+   font-family: Georgia, 'Times New Roman', Times, serif;
    text-shadow: 3px 3px 3px black;
 }
 header div span{
-    font-family: fuenteBarra;    text-shadow: 3px 3px 3px white;
+    font-family: Georgia, 'Times New Roman', Times, serif;  text-shadow: 3px 3px 3px white;
 
 }
 
@@ -230,7 +230,7 @@ main{
 
 */
 
-footer{
+/* footer{
     display: grid;
     width: 100%;
     height: 50px;
@@ -239,7 +239,7 @@ footer{
     justify-content: center;
     color: white;
     align-items: center;
-}
+} */
 
 /* .subir{
     height: 40px;
